@@ -1,2 +1,2 @@
-# Employee-Management-System-main
- To maintain the  employee details
+# Employee-Management-System
+ To maintain Employee details
